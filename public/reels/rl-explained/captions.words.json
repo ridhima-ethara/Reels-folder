@@ -1,0 +1,537 @@
+[
+  {
+    "word": "Nobody",
+    "start": 0.2,
+    "end": 0.564
+  },
+  {
+    "word": "gave",
+    "start": 0.604,
+    "end": 0.9
+  },
+  {
+    "word": "this",
+    "start": 0.94,
+    "end": 1.236
+  },
+  {
+    "word": "AI",
+    "start": 1.276,
+    "end": 1.504
+  },
+  {
+    "word": "the",
+    "start": 1.544,
+    "end": 1.806
+  },
+  {
+    "word": "answers.",
+    "start": 1.846,
+    "end": 2.244
+  },
+  {
+    "word": "It",
+    "start": 2.694,
+    "end": 2.922
+  },
+  {
+    "word": "learned",
+    "start": 2.962,
+    "end": 3.36
+  },
+  {
+    "word": "by",
+    "start": 3.4,
+    "end": 3.628
+  },
+  {
+    "word": "trial",
+    "start": 3.668,
+    "end": 3.998
+  },
+  {
+    "word": "and",
+    "start": 4.038,
+    "end": 4.3
+  },
+  {
+    "word": "error.",
+    "start": 4.34,
+    "end": 4.67
+  },
+  {
+    "word": "That's",
+    "start": 5.12,
+    "end": 5.45
+  },
+  {
+    "word": "reinforcement",
+    "start": 5.49,
+    "end": 6.092
+  },
+  {
+    "word": "learning.",
+    "start": 6.132,
+    "end": 6.564
+  },
+  {
+    "word": "Think",
+    "start": 7.014,
+    "end": 7.344
+  },
+  {
+    "word": "of",
+    "start": 7.384,
+    "end": 7.612
+  },
+  {
+    "word": "training",
+    "start": 7.652,
+    "end": 8.084
+  },
+  {
+    "word": "a",
+    "start": 8.124,
+    "end": 8.318
+  },
+  {
+    "word": "dog.",
+    "start": 8.358,
+    "end": 8.62
+  },
+  {
+    "word": "It",
+    "start": 9.07,
+    "end": 9.298
+  },
+  {
+    "word": "sits,",
+    "start": 9.338,
+    "end": 9.634
+  },
+  {
+    "word": "it",
+    "start": 9.834,
+    "end": 10.062
+  },
+  {
+    "word": "gets",
+    "start": 10.102,
+    "end": 10.398
+  },
+  {
+    "word": "a",
+    "start": 10.438,
+    "end": 10.632
+  },
+  {
+    "word": "treat.",
+    "start": 10.672,
+    "end": 11.002
+  },
+  {
+    "word": "It",
+    "start": 11.452,
+    "end": 11.68
+  },
+  {
+    "word": "chews",
+    "start": 11.72,
+    "end": 12.05
+  },
+  {
+    "word": "your",
+    "start": 12.09,
+    "end": 12.386
+  },
+  {
+    "word": "shoes,",
+    "start": 12.426,
+    "end": 12.756
+  },
+  {
+    "word": "no",
+    "start": 12.956,
+    "end": 13.184
+  },
+  {
+    "word": "treat.",
+    "start": 13.224,
+    "end": 13.554
+  },
+  {
+    "word": "Now",
+    "start": 14.004,
+    "end": 14.266
+  },
+  {
+    "word": "make",
+    "start": 14.306,
+    "end": 14.602
+  },
+  {
+    "word": "the",
+    "start": 14.642,
+    "end": 14.904
+  },
+  {
+    "word": "AI",
+    "start": 14.944,
+    "end": 15.172
+  },
+  {
+    "word": "the",
+    "start": 15.212,
+    "end": 15.474
+  },
+  {
+    "word": "dog.",
+    "start": 15.514,
+    "end": 15.776
+  },
+  {
+    "word": "It",
+    "start": 16.226,
+    "end": 16.454
+  },
+  {
+    "word": "tries",
+    "start": 16.494,
+    "end": 16.824
+  },
+  {
+    "word": "a",
+    "start": 16.864,
+    "end": 17.058
+  },
+  {
+    "word": "move,",
+    "start": 17.098,
+    "end": 17.394
+  },
+  {
+    "word": "gets",
+    "start": 17.594,
+    "end": 17.89
+  },
+  {
+    "word": "a",
+    "start": 17.93,
+    "end": 18.124
+  },
+  {
+    "word": "reward",
+    "start": 18.164,
+    "end": 18.528
+  },
+  {
+    "word": "or",
+    "start": 18.568,
+    "end": 18.796
+  },
+  {
+    "word": "a",
+    "start": 18.836,
+    "end": 19.03
+  },
+  {
+    "word": "penalty,",
+    "start": 19.07,
+    "end": 19.468
+  },
+  {
+    "word": "and",
+    "start": 19.668,
+    "end": 19.93
+  },
+  {
+    "word": "adjusts.",
+    "start": 19.97,
+    "end": 20.368
+  },
+  {
+    "word": "Then",
+    "start": 20.818,
+    "end": 21.114
+  },
+  {
+    "word": "it",
+    "start": 21.154,
+    "end": 21.382
+  },
+  {
+    "word": "does",
+    "start": 21.422,
+    "end": 21.718
+  },
+  {
+    "word": "that",
+    "start": 21.758,
+    "end": 22.054
+  },
+  {
+    "word": "again",
+    "start": 22.094,
+    "end": 22.424
+  },
+  {
+    "word": "and",
+    "start": 22.464,
+    "end": 22.726
+  },
+  {
+    "word": "again.",
+    "start": 22.766,
+    "end": 23.096
+  },
+  {
+    "word": "That's",
+    "start": 23.546,
+    "end": 23.876
+  },
+  {
+    "word": "how",
+    "start": 23.916,
+    "end": 24.178
+  },
+  {
+    "word": "AlphaGo",
+    "start": 24.218,
+    "end": 24.616
+  },
+  {
+    "word": "beat",
+    "start": 24.656,
+    "end": 24.952
+  },
+  {
+    "word": "Go",
+    "start": 24.992,
+    "end": 25.22
+  },
+  {
+    "word": "legend",
+    "start": 25.26,
+    "end": 25.624
+  },
+  {
+    "word": "Lee",
+    "start": 25.664,
+    "end": 25.926
+  },
+  {
+    "word": "Sedol,",
+    "start": 25.966,
+    "end": 26.296
+  },
+  {
+    "word": "four",
+    "start": 26.496,
+    "end": 26.792
+  },
+  {
+    "word": "games",
+    "start": 26.832,
+    "end": 27.162
+  },
+  {
+    "word": "to",
+    "start": 27.202,
+    "end": 27.43
+  },
+  {
+    "word": "one,",
+    "start": 27.47,
+    "end": 27.732
+  },
+  {
+    "word": "back",
+    "start": 27.932,
+    "end": 28.228
+  },
+  {
+    "word": "in",
+    "start": 28.268,
+    "end": 28.496
+  },
+  {
+    "word": "2016.",
+    "start": 28.536,
+    "end": 28.832
+  },
+  {
+    "word": "Here's",
+    "start": 29.282,
+    "end": 29.612
+  },
+  {
+    "word": "the",
+    "start": 29.652,
+    "end": 29.914
+  },
+  {
+    "word": "twist.",
+    "start": 29.954,
+    "end": 30.284
+  },
+  {
+    "word": "ChatGPT",
+    "start": 30.734,
+    "end": 31.132
+  },
+  {
+    "word": "was",
+    "start": 31.172,
+    "end": 31.434
+  },
+  {
+    "word": "trained",
+    "start": 31.474,
+    "end": 31.872
+  },
+  {
+    "word": "partly",
+    "start": 31.912,
+    "end": 32.276
+  },
+  {
+    "word": "the",
+    "start": 32.316,
+    "end": 32.578
+  },
+  {
+    "word": "same",
+    "start": 32.618,
+    "end": 32.914
+  },
+  {
+    "word": "way.",
+    "start": 32.954,
+    "end": 33.216
+  },
+  {
+    "word": "Humans",
+    "start": 33.666,
+    "end": 34.03
+  },
+  {
+    "word": "ranked",
+    "start": 34.07,
+    "end": 34.434
+  },
+  {
+    "word": "its",
+    "start": 34.474,
+    "end": 34.736
+  },
+  {
+    "word": "answers,",
+    "start": 34.776,
+    "end": 35.174
+  },
+  {
+    "word": "and",
+    "start": 35.374,
+    "end": 35.636
+  },
+  {
+    "word": "those",
+    "start": 35.676,
+    "end": 36.006
+  },
+  {
+    "word": "rankings",
+    "start": 36.046,
+    "end": 36.478
+  },
+  {
+    "word": "became",
+    "start": 36.518,
+    "end": 36.882
+  },
+  {
+    "word": "the",
+    "start": 36.922,
+    "end": 37.184
+  },
+  {
+    "word": "treats.",
+    "start": 37.224,
+    "end": 37.588
+  },
+  {
+    "word": "Want",
+    "start": 38.038,
+    "end": 38.334
+  },
+  {
+    "word": "my",
+    "start": 38.374,
+    "end": 38.602
+  },
+  {
+    "word": "simple",
+    "start": 38.642,
+    "end": 39.006
+  },
+  {
+    "word": "guide",
+    "start": 39.046,
+    "end": 39.376
+  },
+  {
+    "word": "to",
+    "start": 39.416,
+    "end": 39.644
+  },
+  {
+    "word": "reinforcement",
+    "start": 39.684,
+    "end": 40.286
+  },
+  {
+    "word": "learning?",
+    "start": 40.326,
+    "end": 40.758
+  },
+  {
+    "word": "Comment",
+    "start": 41.208,
+    "end": 41.606
+  },
+  {
+    "word": "RL",
+    "start": 41.646,
+    "end": 41.874
+  },
+  {
+    "word": "and",
+    "start": 41.914,
+    "end": 42.176
+  },
+  {
+    "word": "I'll",
+    "start": 42.216,
+    "end": 42.478
+  },
+  {
+    "word": "send",
+    "start": 42.518,
+    "end": 42.814
+  },
+  {
+    "word": "it",
+    "start": 42.854,
+    "end": 43.082
+  },
+  {
+    "word": "to",
+    "start": 43.122,
+    "end": 43.35
+  },
+  {
+    "word": "you.",
+    "start": 43.39,
+    "end": 43.652
+  }
+]
